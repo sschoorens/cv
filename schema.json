@@ -1,0 +1,85 @@
+{
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Stéphane Schoorens",
+        "email": "sschoorens@gmail.com",
+        "jobTitle": {
+          "@type": "DefinedTerm",
+          "name": "Senior front end engineer",
+          "alternateName": "Tech lead front end engineer",
+          "description": "I've been working at Ubicast for several years as a Senior & Tech Lead Front-End Developer.\nI'm the point of contact for all interface development and manage the entire front-end component.\nAlthough I'm not a manager, I hold a senior position and am regularly called upon for my expertise.\nI also have the opportunity to work on back-end projects from time to time.\nI'm looking for full remote positions or at least one week on two."
+        },
+        "image": "https://lh3.googleusercontent.com/pw/AP1GczNZV5LojK6iDz-ltCPO89iabasLdkrWAbe_zV4LrobXeUSPslP0F5YVPzh5HiGSyI-Uuyv9i9KBZBdCr97KuzC3BXfhN-YTYTf7PBsv09BCd5mLwvP3dHzZiPvcy6KJW9jYuVpQy1eNKm6EpMFuHCyD=w392-h392-s-no",
+        "sameAs": [
+          "https://www.linkedin.com/in/sschoorens/"
+        ],
+        "skills": [
+          {
+            "@type": "DefinedTerm",
+            "name": "TypeScript",
+            "sameAs": [
+              "https://g.co/kgs/M4uSjqv",
+              "https://en.wikipedia.org/wiki/TypeScript"
+            ]
+          },
+          {
+            "@type": "DefinedTerm",
+            "name": "Python",
+            "sameAs": [
+              "https://g.co/kgs/X57o3Cz",
+              "https://en.wikipedia.org/wiki/Python_(programming_language)"
+            ]
+          },
+          {
+            "@type": "DefinedTerm",
+            "name": "Angular",
+            "sameAs": [
+              "https://g.co/kgs/EsXyhBE",
+              "https://en.wikipedia.org/wiki/Angular_(web_framework)"
+            ]
+          },
+          {
+            "@type": "DefinedTerm",
+            "name": "Django",
+            "sameAs": [
+              "https://g.co/kgs/GDT5u5i",
+              "https://en.wikipedia.org/wiki/Django_(web_framework)"
+            ]
+          },
+          {
+            "@type": "DefinedTerm",
+            "name": "Git",
+            "sameAs": [
+              "https://g.co/kgs/3J7E15L",
+              "https://en.wikipedia.org/wiki/Git"
+            ]
+          },
+          {
+            "@type": "DefinedTerm",
+            "name": "Docker",
+            "sameAs": [
+              "https://g.co/kgs/E5QCfWU",
+              "https://en.wikipedia.org/wiki/Docker_(software)"
+            ]
+          }
+        ],
+        "knowsLanguage": [
+          {
+            "@type": "Language",
+            "name": "fr-FR",
+            "description": "native"
+          }, {
+            "@type": "Language",
+            "name": "en-US",
+            "description": "Professional"
+          }
+        ],
+        "nationality": {
+          "@type": "Country",
+          "name": "French"
+        },
+        "seeks": {
+          "@type": "Demand",
+          "name": "Job"
+        }
+      }
